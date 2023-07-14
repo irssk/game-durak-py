@@ -2,8 +2,6 @@
 
 Сетевая игра в карты "Дурак". Для GUI использован Kivy.
 
-![](screenshot.jpg)
-
 ## Запуск на Android
 
 [Установка Buildozer](https://kivy.org/doc/stable/guide/packaging-android.html)
